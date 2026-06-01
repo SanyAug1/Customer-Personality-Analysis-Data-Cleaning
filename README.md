@@ -1,24 +1,26 @@
-Customer Personality Analysis - Data Cleaning Project
+# Customer Personality Analysis - Data Cleaning Project
 
-Overview
-
+## Overview
 This project focuses on cleaning and preparing the Customer Personality Analysis dataset using Microsoft Excel.
 
-The original dataset was provided in an unstructured format where data appeared in a single column. The dataset was transformed into a structured tabular format using Excel's Text-to-Columns functionality with tab delimiters.
-
-Work Performed
-
-- Converted unstructured data into a structured table.
-- Used Text-to-Columns with tab delimiter.
+## Work Performed
+- Converted unstructured data into a structured tabular format using Text-to-Columns.
+- Used Tab Delimiter to separate fields correctly.
 - Identified incomplete records.
 - Created a separate worksheet for incomplete records.
 - Removed incomplete records from the primary dataset.
 - Prepared the dataset for future analysis and reporting.
 
-Tools Used
-
+## Tools Used
 - Microsoft Excel
+- GitHub
 
+## Files Included
+- Customer_Personality_Analysis_Cleaning.xlsx
+- Task 2.pdf
+
+## Outcome
+The dataset was successfully cleaned and organized for future analysis, visualization, and reporting.
 File Included
 
 - Customer_Personality_Analysis_Cleaning.xlsx
